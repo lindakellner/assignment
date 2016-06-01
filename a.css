@@ -1,0 +1,30 @@
+div#container { font:1.2em / 140% 'MS Sans Serif'; }
+
+div#wrapper {
+background-color:#29293d;
+border: 0.25px white;
+width: auto;
+}
+
+div#kopfbereich {
+background-color:#29293d;
+white;color:black;
+border:1px white;
+width: auto;
+
+}
+
+div#textbereich {
+background-color:#29293d;
+color:black;
+border: 1px solid white;
+height: 1000px;
+width:auto;
+}
+
+div#fussbereich {
+background-color:#29293d;
+color:black;
+height:auto;
+width:auto;
+}
